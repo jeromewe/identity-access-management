@@ -3,9 +3,9 @@
 [![Python3](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/django-2.2-brightgreen.svg?style=plastic)](https://www.djangoproject.com/)
 
-身份和访问管理 是CMP里重要的组成部分负责管理用户与凭证，是符合多租户架构的系统。
+身份和访问管理 是CMP里重要的组成部分负责用户和凭证的管理，是符合多租户架构的系统。
 
-身份和访问管理 使用 Python3 / Django 进行开发，遵循 Web 2.0 规范，配备了业界领先的方案，交互界面美观、用户体验好。
+身份和访问管理 使用 Python3 / Django 进行开发，遵循 Web 2.0 规范。
 
 身份和访问管理 采纳分布式架构，支持Docker部署方式
 
@@ -81,7 +81,7 @@
     </tr> 
 </table>
 
-## 安装及使用指南
+## Documentation & Support
 
 -  [Docker 快速安装文档]()
 -  [Step by Step 安装文档]()
